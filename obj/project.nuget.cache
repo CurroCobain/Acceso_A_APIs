@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aAW8BpFOjSjm5GCmv2WUqUOfCfOJ3gjCqRgeT9mVNd6yHrIbaPAAqOg4b+0Bi9zLkFWFQZyzdiNz/qzkn1bLeQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programacion\\Segundo\\C#\\AccesoAApis1\\AccesoAApis1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GaelC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
